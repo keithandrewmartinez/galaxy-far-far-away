@@ -1,0 +1,21 @@
+
+Mac:galaxy-far-far-away keithmartinez$ touch darth_vader.txt && princess_leia.txt && storm_trooper.txt
+
+Part I: Set the Scene
+
+
+//Create a directory called death_star, and make the following files inside of it: darth_vader.txt, princess_leia.txt, storm_trooper.txt
+
+1. mv death_star.txt princess_leia.txt storm_trooper.txt darth_vader.txt
+
+
+
+//In galaxy-far-far-away, make a directory named tatooineand create the following files in it: luke.txt, ben_kenobi.txt
+
+2. ben_kenobi.txt	commands.txt	death_star	luke.txt	tatooine	touch
+iMac:galaxy-far-far-away keithmartinez$ mv ben_kenobi.txt luke.txt tatooine
+commands.txt	death_star	tatooine	touch
+
+
+//Inside of tatooine make a directory called millenium_falcon, and in it create: han_solo.txt, chewbaca.txt
+3. 
